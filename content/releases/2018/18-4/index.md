@@ -1,4 +1,4 @@
----
+ Se ---
 title: 18.4
 description: Varslingsadresser fra Enhetsregisteret i Altinn, mindre forbedringer i portal, flere endringer på eksterne API og div bug-fixer
 weight: 90
@@ -11,7 +11,7 @@ releasenote_info: Release 18.4, produksjonssettes 16. april 2018.
 
 Fra 1. januar ble det innført krav om at alle virksomheter i Enhetsregisteret skal ha registert varslingsadresse for digital kommunikasjon med det offentlige.
 Dette kan være én eller flere registrerte epostadresser eller mobilnummer.
-Dette vil være den adressen offentlige myndigheter forholder seg til når de skal sende varsel til virksomheten.
+Dette vil være den adressen offentlige myndigheter forholder seg til når de skal sende varsel til virksomheten. Nyhetssak om ordningen: https://www.brreg.no/nyhet/elektronisk-varslingsadresse-virksomheter/
 Som utgangpunkt så benyttes allerede registerte felles varslingsadresser for virksomheten i Altinn.
 Varslingsadresse for virksomheten vil benyttes av Altinn til utsending av varsel. Varslingsadresse for allerede registrere virksomheter kan oppdateres via profil i Altinn.
 
